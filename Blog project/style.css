@@ -1,0 +1,135 @@
+*{
+    font-size: cursive;
+}
+
+
+
+.navbar{
+    background-color: rgb(6, 57, 57);
+    padding: 15px;
+    font-size: 17px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.navbar a{
+    margin-left: 10px;
+}
+body{
+    margin: 0;
+}
+.float-right{
+    float: right;
+}
+.btn{
+    padding: 5px 10px 5px 10px;
+    border-radius: 5%;
+
+}
+.btn-primary{
+    background-color: rgb(8, 8, 30);
+}
+.btn-warning{
+    background-color: rgb(122, 122, 20);
+    color: black;
+}
+body{
+    margin: 0%;
+}
+.mt-1px{
+    margin-top: 1px;
+}
+
+
+.row{
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+
+.col2{
+    width: 50%;
+}
+.col3{
+     width: 33.33%;
+
+}
+
+.col4{
+    width: 25%;
+}
+
+.mt-10px{
+    margin-top: 10px;
+}
+
+.card{
+    border: 1px solid rgb(14, 8, 8);
+    padding: 1opx;
+    margin: 10px;
+}
+.text-center{
+    text-align: center;
+}
+
+.img-responsive{
+    width: 100%;
+}
+
+
+img{
+    width: 100%;
+}
+
+
+
+.card img{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+.card{
+    text-align: center;
+}
+.card a{
+    color: chartreuse;
+}
+
+.card p {
+    color: rgb(30, 4, 4);
+    
+}
+.text-primary{
+    color: rgb(66, 66, 194);
+}
+.text-white {
+    color: white;
+}
+
+.text-justify{
+    text-align: justify;
+}
+.footer{
+    background-color: rgb(18, 18, 18);
+    padding: 5px;
+}
+
+.p-4{
+    padding: 25px;
+}
+
+
+
+
+.p-5{
+    padding: 30px;
+    color: white;
+    background-color: rgb(49, 116, 168);
+}
+
